@@ -1,0 +1,21 @@
+# Ignorar los archivos generados por Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+# Ignorar archivos de Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignorar el archivo de configuración de proyecto de Unreal
+*.log
+*.ubt
+*.xcodeproj
+
+# Archivos temporales de macOS y otros sistemas
+.DS_Store
